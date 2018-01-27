@@ -1,0 +1,9 @@
+{
+  "name": "express-works",
+  "version": "1.0.0",
+  "description": "freecodecamp.org expressworks exercises",
+  "author": "Itenga",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
