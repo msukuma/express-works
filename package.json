@@ -4,6 +4,7 @@
   "description": "freecodecamp.org expressworks exercises",
   "author": "Itenga",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "jade": "^1.11.0"
   }
 }
